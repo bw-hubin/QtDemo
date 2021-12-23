@@ -4,6 +4,7 @@
         <file>1.jpeg</file>
         <file>SpeedGuage.qml</file>
         <file>FuelGuage.qml</file>
+        <file>MyButton.qml</file>
     </qresource>
     <qresource prefix="/img">
         <file>fuel_icon.png</file>

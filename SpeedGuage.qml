@@ -7,6 +7,7 @@ Item
     visible: true
     width: 1000; height: 800
     property bool accelerating: false
+    property int sValue: 0
     opacity: 0.0
     CircularGauge {
         value: speedguage.accelerating ? maximumValue : 0
